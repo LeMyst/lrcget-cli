@@ -35,7 +35,7 @@ This is an early-beta release, so expect bugs and missing features.
 
 ```bash
 # Clone the repository
-git clone https://github.com/musicdock/lrcget
+git clone https://github.com/musicdock/lrcget-cli.git
 cd lrcget-cli
 
 # Build release binary
